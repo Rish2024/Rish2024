@@ -1,64 +1,70 @@
 <h1 align="center">Hi 👋, I'm Hrishabh Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, C++, SQL and Data Structures and Algorithms**
+<p align="center">
+  🌱 Currently learning <b>JavaScript, C++, SQL & DSA</b> <br>
+  💬 Ask me about <b>React, C++ & Python</b> <br>
+  📫 Reach me at <b>singhhrishabhkumar@gmail.com</b>
+</p>
 
-- 💬 Ask me about **React, C++ and python**
+---
 
-- 📫 How to reach me **singhhrishabhkumar@gmail.com**
+<h3 align="center">🌐 Connect with me</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:singhhrishabhkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;" />
-  </a>
+---
+
+<h3 align="center">💻 Languages and Tools</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rish2024&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish2024&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🔥 Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish2024&layout=compact&theme=tokyonight" />
 </p>
