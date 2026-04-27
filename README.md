@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  🌱 Currently learning <b>JavaScript, C++, SQL & DSA</b> <br>
-  💬 Ask me about <b>React, C++ & Python</b> <br>
+  🌱 Currently learning <b>JavaScript, Java & DSA</b> <br>
+  💬 Ask me about <b>C++, SQL, Linux & Python</b> <br>
   📫 Reach me at <b>singhhrishabhkumar@gmail.com</b>
 </p>
 
