@@ -63,8 +63,8 @@
 
 ---
 
-<h3 align="center">🔥 Top Languages</h3>
+<!-- <h3 align="center">🔥 Top Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish2024&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
