@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | DSA Enthusiast | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things"/>
 
 </div>
 
