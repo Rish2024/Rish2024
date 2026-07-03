@@ -1,62 +1,35 @@
 <h1 align="center">Hi 👋, I'm Hrishabh Kumar Singh</h1>
 
-<h3 align="center">
-Software Developer • Java Developer • DSA Enthusiast • Open Source Contributor 🚀
-</h3>
+<h3 align="center">🚀 Software Developer | Java Developer | DSA Enthusiast | Full Stack Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
-<img src="Programming.gif" width="350"/>
+  <img src="./Programming.gif" width="400" alt="Programming GIF"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rish2024&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Rish2024?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/Rish2024?affiliations=OWNER&style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=Rish2024&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Rish2024?label=Followers&style=social" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-```yaml
-Name: Hrishabh Kumar Singh
-
-Education:
-  - B.Tech CSE
-
-Currently Learning:
-  - Java
-  - Data Structures & Algorithms
-  - JavaScript
-  - Backend Development
-
-Interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Open Source
-  - Competitive Programming
-
-Languages:
-  - Java
-  - C++
-  - Python
-  - JavaScript
-
-Database:
-  - MySQL
-  - MongoDB
-
-Email:
-  - singhhrishabhkumar@gmail.com
-```
+- 🎓 B.Tech CSE Student
+- 🌱 Currently learning **Java, DSA, JavaScript & Backend Development**
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence**
+- 🏆 Competitive Programmer
+- 🤝 Open Source Contributor
+- 📧 **singhhrishabhkumar@gmail.com**
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -80,7 +53,7 @@ Email:
 
 ---
 
-# 💻 Tech Stack
+# 💻 Languages & Tools
 
 <p align="center">
 
@@ -90,13 +63,13 @@ Email:
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rish2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rish2024&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rish2024&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rish2024&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,7 +89,7 @@ Email:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rish2024&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rish2024&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -132,7 +105,7 @@ Email:
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 LeetCode
 
 <p align="center">
 
@@ -142,43 +115,31 @@ Email:
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
 ```text
-📚 Mastering Data Structures & Algorithms
+📚 Data Structures & Algorithms
 
-☕ Java Backend Development
+☕ Java Development
 
 🌐 Full Stack Web Development
 
-🤖 Artificial Intelligence & Machine Learning
+🤖 Artificial Intelligence
 
-🏆 Competitive Programming
-
-🚀 Open Source Contributions
+🚀 Open Source
 ```
 
 ---
 
-# ⚡ Quote
+# ⚡ Fun Fact
 
-<p align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-</p>
-
----
-
-# 📫 Reach Me
-
-📧 **singhhrishabhkumar@gmail.com**
-
-💼 Open to collaborating on exciting projects!
+> **"First, solve the problem. Then, write the code."** – John Johnson
 
 ---
 
 <p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer"/>
 
